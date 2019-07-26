@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyAppToDo</string>
+    <string name="high_r_btn">high</string>
+    <string name="medium_r_btn">medium</string>
+    <string name="low_r_btn">low</string>
+</resources>
